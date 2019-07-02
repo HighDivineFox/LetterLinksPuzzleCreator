@@ -1,4 +1,4 @@
-file_path = "D:\\Unity Projects\\HexWords\\Assets\\Resources\\Levels\\LevelPack3.json"
+file_path = ".\\levels.json"
 categories = []
 
 '''

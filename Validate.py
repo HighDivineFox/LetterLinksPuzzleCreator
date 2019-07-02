@@ -1,6 +1,6 @@
 import json
 
-file_path = "D:\\Unity Projects\\HexWords\\Assets\\Resources\\Levels\\LevelPack4.json"
+file_path = ".\\levels.json"
 
 data_to_save = {}
 data_to_save['Items'] = []

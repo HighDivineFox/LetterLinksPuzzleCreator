@@ -1,57 +1,5 @@
 {
-            "Items": [
-                {
-                    "level": 1,
-                    "mainWord": "captain",
-                    "answers": [
-                        "captain",
-                        "paint",
-                        "tinc",
-                        "tapa",
-                        "tain",
-                        "pata",
-                        "pain",
-                        "inta",
-                        "inca",
-                        "capa",
-                        "aint"
-                    ]
-                },
-                {
-                    "level": 2,
-                    "mainWord": "bedroom",
-                    "answers": [
-                        "bedroom",
-                        "redoom",
-                        "orbed",
-                        "ombre",
-                        "omber",
-                        "broom",
-                        "brood",
-                        "room",
-                        "redo",
-                        "ored",
-                        "oord",
-                        "door",
-                        "doom",
-                        "broo",
-                        "brod",
-                        "bred",
-                        "berm"
-                    ]
-                },
-                {
-                    "level": 3,
-                    "mainWord": "ability",
-                    "answers": [
-                        "ability",
-                        "ality",
-                        "ilya",
-                        "alit",
-                        "alii",
-                        "albi",
-                        "ably"
-                    ]
-                }
+    "Items": [
+        
     ]
 }
